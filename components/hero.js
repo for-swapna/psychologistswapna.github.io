@@ -1,16 +1,30 @@
 import Image from "next/image";
 import Container from "./container";
 import heroImg from "../public/img/swapna.png";
+import { IoLogoWhatsapp } from "react-icons/io";
+
 
 const Hero = () => {
   return (
     <>
       <Container className="flex flex-wrap ">
+        <h1 className="text-4xl font-bold leading-snug tracking-tight text-gray-800 lg:text-4xl lg:leading-tight xl:text-6xl xl:leading-tight dark:text-white text-center w-full mb-5">
+          Hi, I am Psychologist Swapna
+        </h1>
+        <div className="flex items-center justify-center w-full lg:w-1/2">
+          <div className="">
+            <Image
+              src={heroImg}
+              width="500"
+              className={"object-cover"}
+              alt="Hero Illustration"
+              loading="eager"
+              placeholder="blur"
+            />
+          </div>
+        </div>
         <div className="flex items-center w-full lg:w-1/2">
           <div className="max-w-2xl mb-8">
-            <h1 className="text-4xl font-bold leading-snug tracking-tight text-gray-800 lg:text-4xl lg:leading-tight xl:text-6xl xl:leading-tight dark:text-white">
-              Hi, I am Psychologist Swapna
-            </h1>
             <p className="py-5 text-l leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
               I am a certified Ayurvedic doctor. I am gifted with ability to sense the aura/energy body of the people I meet, 
               which enables me to see through their psychological problems, even if they are unable to articulate it. 
@@ -25,7 +39,7 @@ const Hero = () => {
                 target="_blank"
                 rel="noopener"
                 className="px-8 py-4 text-lg font-medium text-center text-white bg-green-400 rounded-md ">
-                Get in touch with me on Whatsapp
+                <IoLogoWhatsapp className="bg-green-400 float-left w-7 h-7 mr-1" /> <span>Get in touch with me on Whatsapp</span>
               </a>
               {/* <a
                 href="https://github.com/web3templates/nextly-template/"
@@ -48,19 +62,7 @@ const Hero = () => {
             </div>
           </div>
         </div>
-        <div className="flex items-center justify-center w-full lg:w-1/2">
-          <div className="">
-            <Image
-              src={heroImg}
-              width="616"
-              height="617"
-              className={"object-cover"}
-              alt="Hero Illustration"
-              loading="eager"
-              placeholder="blur"
-            />
-          </div>
-        </div>
+        
       </Container>
       {/* <Container>
         <div className="flex flex-col justify-center">

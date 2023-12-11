@@ -1,5 +1,7 @@
 import React from "react";
 import Container from "./container";
+import { IoLogoWhatsapp } from "react-icons/io";
+
 
 const Cta = () => {
   return (
@@ -13,14 +15,14 @@ const Cta = () => {
             Even if you do not know what is wrong with you but if you feel, your life isn't joyful as it should be, I can help you figure out what is wrong & then eventually we can solve it together. 
           </p>
         </div>
-        <div className="flex-shrink-0 w-full text-center lg:w-auto">
-        <a
-          href="https://wa.me/918801543815"
-          target="_blank"
-          rel="noopener"
-          className="px-8 py-4 text-lg font-medium text-center text-white bg-green-400 rounded-md ">
-          Ping me on Whatsapp
-        </a>
+        <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 items-center sm:flex-row max-w-l text-center">
+          <a
+            href="https://wa.me/918801543815"
+            target="_blank"
+            rel="noopener"
+            className="px-8 py-4 text-lg font-medium text-white bg-green-400 rounded-md ">
+              <IoLogoWhatsapp className="bg-green-400 float-left w-7 h-7 mr-1" /><span className="text-lg"> Whatsapp Me</span>
+          </a>
         </div>
       </div>
     </Container>
