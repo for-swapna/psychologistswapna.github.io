@@ -12,7 +12,7 @@ const Hero = () => {
               Hi, I am Psychologist Swapna
             </h1>
             <p className="py-5 text-l leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-              I am a certified Ayurvedic doctor & a single mother. I am gifted with ability to sense the aura/energy body of the people I meet, 
+              I am a certified Ayurvedic doctor. I am gifted with ability to sense the aura/energy body of the people I meet, 
               which enables me to see through their psychological problems, even if they are unable to articulate it. 
             </p>
             <p className="py-5 text-l leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
