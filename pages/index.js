@@ -16,17 +16,18 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>Nextly - Free Nextjs & TailwindCSS Landing Page Template</title>
+        <title>Psychologist Swapna</title>
         <meta
           name="description"
-          content="Nextly is a free landing page template built with next.js & Tailwind CSS"
+          content="Book free online consultation with Swapna, Ayurvedic doctor"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Navbar />
+      {/* <Navbar /> */}
       <Hero />
-      <SectionTitle
+      
+      {/* <SectionTitle
         pretitle="Nextly Benefits"
         title=" Why should you use this landing page">
         Nextly is a free landing page & marketing website template for startups
@@ -57,7 +58,8 @@ const Home = () => {
       <Faq />
       <Cta />
       <Footer />
-      <PopupWidget />
+      <PopupWidget /> */}
+      
     </>
   );
 }
