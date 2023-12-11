@@ -33,9 +33,9 @@ const Home = () => {
         Nextly is a free landing page & marketing website template for startups
         and indie projects. Its built with Next.js & TailwindCSS. And its
         completely open-source.
-      </SectionTitle>
+      </SectionTitle> */
       <Benefits data={benefitOne} />
-      <Benefits imgPos="right" data={benefitTwo} />
+      /* <Benefits imgPos="right" data={benefitTwo} />
       <SectionTitle
         pretitle="Watch a video"
         title="Learn how to fullfil your needs">
@@ -49,7 +49,7 @@ const Home = () => {
         title="Here's what our customers said">
         Testimonails is a great way to increase the brand trust and awareness.
         Use this section to highlight your popular customers.
-      </SectionTitle>
+      </SectionTitle> 
       <Testimonials />
       <SectionTitle pretitle="FAQ" title="Frequently Asked Questions">
         Answer your customers possible questions here, it will increase the
@@ -60,6 +60,13 @@ const Home = () => {
       <Footer />
       <PopupWidget /> */}
       
+      <SectionTitle
+        pretitle="Testimonials"
+        title="What my counselees say about me">
+        I reached out to my counselees to get some feedback on how effective they found my counselling. Listing some of the feedback below
+      </SectionTitle> 
+      <Testimonials />
+      <Cta />
     </>
   );
 }

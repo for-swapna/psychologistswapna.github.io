@@ -5,30 +5,31 @@ import {
   DevicePhoneMobileIcon,
   AdjustmentsHorizontalIcon,
   SunIcon,
+  CogIcon,
 } from "@heroicons/react/24/solid";
 
 import benefitOneImg from "../public/img/benefit-one.png";
 import benefitTwoImg from "../public/img/benefit-two.png";
 
 const benefitOne = {
-  title: "Highlight your benefits",
-  desc: "You can use this space to highlight your first benefit or a feature of your product. It can also contain an image or Illustration like in the example along with some bullet points.",
+  title: "Some of the counselling I did",
+  desc: "I have blogged about some of the people I counselled keeping their identity secret. It will give you an idea of my way of counselling.",
   image: benefitOneImg,
   bullets: [
     {
-      title: "Understand your customers",
-      desc: "Then explain the first point breifly in one or two lines.",
-      icon: <FaceSmileIcon />,
+      title: "A daughter whose emotions were misunderstood",
+      desc: "In 2012, I counselled one of my college juniors which eventually made her question her father & eventually sorted the relationship",
+      icon: <CogIcon />,
     },
     {
-      title: "Improve acquisition",
-      desc: "Here you can add the next benefit point.",
-      icon: <ChartBarSquareIcon />,
+      title: "A daughter whose emotions were misunderstood",
+      desc: "In 2012, I counselled one of my college juniors which eventually made her question her father & eventually sorted the relationship",
+      icon: <CogIcon />,
     },
     {
-      title: "Drive customer retention",
-      desc: "This will be your last bullet point in this section.",
-      icon: <CursorArrowRaysIcon />,
+      title: "A daughter whose emotions were misunderstood",
+      desc: "In 2012, I counselled one of my college juniors which eventually made her question her father & eventually sorted the relationship",
+      icon: <CogIcon />,
     },
   ],
 };
