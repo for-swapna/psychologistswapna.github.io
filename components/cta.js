@@ -15,7 +15,7 @@ const Cta = () => {
             Even if you do not know what is wrong with you but if you feel, your life isn't joyful as it should be, I can help you figure out what is wrong & then eventually we can solve it together. 
           </p>
         </div>
-        <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 items-center sm:flex-row max-w-l text-center">
+        <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 items-center sm:flex-row max-w-full min-w-max text-center">
           <a
             href="https://wa.me/918801543815"
             target="_blank"
