@@ -22,7 +22,7 @@ const benefitOne = {
       icon: <CogIcon />,
     },
     {
-      title: "A daughter whose emotions were misunderstood",
+      title: "Responsible non-romantic Relationship",
       desc: "In 2012, I counselled one of my college juniors which eventually made her question her father & eventually sorted the relationship",
       icon: <CogIcon />,
     },
