@@ -23,7 +23,7 @@ const benefitOne = {
     },
     {
       title: "Responsible non-romantic Relationship",
-      desc: "In 2012, I counselled one of my college juniors which eventually made her question her father & eventually sorted the relationship",
+      desc: "A wife & a Husband.....which has to be long-lasting romantic relationship, struck as friendship, compromising & experiencing it as ,there is no way out.",
       icon: <CogIcon />,
     },
     {
