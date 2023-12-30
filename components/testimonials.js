@@ -14,7 +14,7 @@ const Testimonials  = () => {
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-l leading-normal ">
               "The way swapna suggested to go back to my father & ask him to question, really helped me navigate the difficult situation of my life.
-              If She was not the person, i never would have imagined being happy with my Dad.
+              If She was not the person, i never would have imagined being happy with my Dad".
             </p>
 
             <Avatar
