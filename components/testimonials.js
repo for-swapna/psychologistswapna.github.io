@@ -46,7 +46,7 @@ Thank you for your loving touch showing me a way forward".
         <div className="">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
           <p className="text-l leading-normal ">
-              "Struggling with 2 kids as a single parent i couldn't say anything but miracle God showed me a path to meet this spiritual woman  she guided & helped me through crucial phases of my life".
+              "Struggling with 2 kids as a single parent i couldn't say anything but miracle God showed me a path to meet you, to breathe through crucial phases of my life".
             </p>
 
             <Avatar
