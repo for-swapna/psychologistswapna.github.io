@@ -13,7 +13,7 @@ const Testimonials  = () => {
         <div className="lg:col-span-2 xl:col-auto">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-l leading-normal ">
-              The way swapna suggested to go back to my father & ask him to question, really helped me navigate the difficult situation of my life.
+              "The way swapna suggested to go back to my father & ask him to question, really helped me navigate the difficult situation of my life.
               If She was not the person, i never would have imagined being happy with my Dad.
             </p>
 
@@ -30,7 +30,7 @@ const Testimonials  = () => {
               
 
 "Thank you so much for your helpful support
-when I arrived here to day I greeted my husband by holding his hand like you held mine …🙏
+when I arrived here today I greeted my husband by holding his hand like you held mine …🙏
 & he started to cry 🤗🙏
 both our hearts were softened as we reconnected 
 Thank you for your loving touch showing me a way forward".
@@ -46,7 +46,7 @@ Thank you for your loving touch showing me a way forward".
         <div className="">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
           <p className="text-l leading-normal ">
-              Struggling with 2 kids, as a single parent, i couldn't say anything but miracle, God showed me a path to meet this spiritual woman , she guided & helped me through crucial phases of my life.
+              "Struggling with 2 kids as a single parent i couldn't say anything but miracle God showed me a path to meet this spiritual woman  she guided & helped me through crucial phases of my life".
             </p>
 
             <Avatar
