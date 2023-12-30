@@ -27,8 +27,8 @@ const benefitOne = {
       icon: <CogIcon />,
     },
     {
-      title: "A daughter whose emotions were misunderstood",
-      desc: "In 2012, I counselled one of my college juniors which eventually made her question her father & eventually sorted the relationship",
+      title: "Infinite desires- finite probabilities",
+      desc: "With uncontrollable hormonal dance in a human body.......defining destiny in search of a soulmate is nothing but finding a pearl deep down in the ocean. ",
       icon: <CogIcon />,
     },
   ],
