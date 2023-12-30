@@ -20,16 +20,19 @@ const benefitOne = {
       title: "A daughter whose emotions were misunderstood",
       desc: "In 2012, I counselled one of my college juniors which eventually made her question her father & eventually sorted the relationship",
       icon: <CogIcon />,
+      link: https://medium.com/@drswapnadumavat/a-daughter-whos-emotions-were-misunderstood-91586b865dcc,
     },
     {
       title: "Responsible non-romantic Relationship",
       desc: "A wife & a Husband.....which has to be long-lasting romantic relationship, struck as friendship, compromising & experiencing it as ,there is no way out.",
       icon: <CogIcon />,
+      link: https://medium.com/@drswapnadumavat/responsible-non-romantic-relationship-243d01713e79,
     },
     {
       title: "Infinite desires- finite probabilities",
       desc: "With uncontrollable hormonal dance in a human body.......defining destiny in search of a soulmate is nothing but finding a pearl deep down in the ocean. ",
       icon: <CogIcon />,
+      link: https://medium.com/@drswapnadumavat/responsible-non-romantic-relationship-243d01713e79,
     },
   ],
 };
