@@ -12,8 +12,8 @@ import benefitOneImg from "../public/img/benefit-one.png";
 import benefitTwoImg from "../public/img/benefit-two.png";
 
 const benefitOne = {
-  title: "patients who turned to peaceful beings",
-  desc: "Due to patient confidentiality identities are undisclosed.",
+  title: "People who turned to peaceful beings",
+  desc: "Trying to improve more receptors towards acceptance becomes great deal in life.",
   image: benefitOneImg,
   bullets: [
     {
