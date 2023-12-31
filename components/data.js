@@ -12,8 +12,8 @@ import benefitOneImg from "../public/img/benefit-one.png";
 import benefitTwoImg from "../public/img/benefit-two.png";
 
 const benefitOne = {
-  title: "Some of the counselling I did",
-  desc: "I have blogged about some of the people I counselled keeping their identity secret. It will give you an idea of my way of counselling.",
+  title: "patients who turned to peaceful beings",
+  desc: "Due to patient confidentiality identities are undisclosed.",
   image: benefitOneImg,
   bullets: [
     {
