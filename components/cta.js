@@ -10,7 +10,7 @@ const Cta = () => {
         <div className="flex-grow text-center lg:text-left">
           <h2 className="text-2xl font-medium lg:text-3xl">
             "YOU ARE NOT ALONE" 
-    Reach out to me anytime .... happy to help..
+            Reach out to me  .... happy to help..
           </h2>
           <p className="mt-2 font-medium text-white text-opacity-90 lg:text-xl">
        
