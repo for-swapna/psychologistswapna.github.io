@@ -17,7 +17,7 @@ const Hero = () => {
           <div className="">
             <Image
               src={heroImg}
-              width="400"
+              width="300"
               className={"object-cover"}
               alt="Hero Illustration"
               loading="eager"
