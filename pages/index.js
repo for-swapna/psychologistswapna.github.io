@@ -62,8 +62,8 @@ const Home = () => {
       
       <SectionTitle
         pretitle="Testimonials"
-        title="What my counselees say about me">
-        I reached out to my counselees to get some feedback on how effective they found my counselling. Listing some of the feedback below
+        title="A few words from counselees">
+        Feedback on how effective they found my counselling. Listing them some below
       </SectionTitle> 
       <Testimonials />
       <Cta />
