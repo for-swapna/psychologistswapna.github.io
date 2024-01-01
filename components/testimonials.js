@@ -39,7 +39,7 @@ Thank you for your loving touch showing me a way forward".
             <Avatar
               image={userOneImg}
               name="Anonymous"
-              title="Beautiful soul"
+              title="senior granny"
             />
           </div>
         </div>
@@ -52,7 +52,7 @@ Thank you for your loving touch showing me a way forward".
             <Avatar
               image={userOneImg}
               name="olecia"
-              title="Seeker"
+              title="ukranian citizen living in india"
             />
           </div>
         </div>
