@@ -11,7 +11,7 @@ const Hero = () => {
         <h1 className="text-4xl font-bold leading-snug tracking-tight text-gray-800 lg:text-4xl lg:leading-tight xl:text-6xl xl:leading-tight dark:text-white text-center w-full mb-5">
               "YOU ARE NOT ALONE"
 
-             If your life isn't joyful as it should be, am right here.... Let's figure out we can articulate it together. 
+             
         </h1>
         <div className="flex items-center justify-center lg:w-1/2 ">
           <div className="">
@@ -28,11 +28,10 @@ const Hero = () => {
         <div className="flex items-center lg:w-1/2">
           <div className="max-w-2xl mb-8">
             <p className="py-5 text-l leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-              I am a certified Ayurvedic doctor. I am gifted with ability to sense the aura/energy body of the people I meet, 
-              which enables me to see through their psychological problems, even if they are unable to articulate it. 
+              If your life isn't joyful as it should be, am right here.... Let's figure out we can articulate it together.
             </p>
             <p className="py-5 text-l leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-              If you are facing issues for which you need counselling help, feel free to get in touch. I am running counselling sessions for free at the moment. 
+              
             </p>
 
             <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">
