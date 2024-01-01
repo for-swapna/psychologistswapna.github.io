@@ -20,7 +20,7 @@ const benefitOne = {
   image: benefitOneImg,
   bullets: [
     {
-      title: "A daughter whose emotions were misunderstood",
+      title: "Resilient Blossom: A Daughter’s Journey Through Depression and the Absence of Dad’s Love",
       desc: "In 2012, I counselled one of my college juniors which eventually made her question her father & eventually sorted the relationship",
       icon: <UsersIcon />,
       link: "https://medium.com/@drswapnadumavat/a-daughter-whos-emotions-were-misunderstood-91586b865dcc",
