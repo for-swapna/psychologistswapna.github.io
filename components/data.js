@@ -13,7 +13,7 @@ import benefitTwoImg from "../public/img/benefit-two.png";
 
 const benefitOne = {
   title: "People who turned to peaceful beings",
-  desc: "Trying to improve more receptors towards acceptance becomes great deal in life.",
+  desc: "willingness to improve more receptors towards acceptance becomes great deal in life.",
   image: benefitOneImg,
   bullets: [
     {
