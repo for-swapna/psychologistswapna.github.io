@@ -15,13 +15,29 @@ const Hero = () => {
         </h1>
         <div className="flex items-center justify-center lg:w-1/2 ">
           <div className="">
-            <Image
-              src={heroImg}
-              width="300"
-              className={"object-cover"}
-              alt="Hero Illustration"
-              loading="eager"
-              placeholder="blur"
+            <div className="flex items-center lg:w-1/2">
+          <div className="max-w-2xl mb-8">
+            <p className="py-5 text-l leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
+              If your life isn't joyful as it should be, am right here.... Let's figure out we can articulate it together.
+            </p>
+            <p className="py-5 text-l leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
+              
+            </p>
+
+            <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">
+              <a
+                href="https://wa.me/918801543815"
+                target="_blank"
+                rel="noopener"
+                className="px-8 py-4 text-lg font-medium text-center text-white bg-green-400 rounded-md ">
+                <IoLogoWhatsapp className="bg-green-400 float-left w-7 h-7 mr-1" /> <span>Get in touch with me on Whatsapp</span>
+              </a>
+            
+              
+              
+              
+              
+    
             />
           </div>
         </div>
