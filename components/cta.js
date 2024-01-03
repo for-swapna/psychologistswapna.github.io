@@ -10,11 +10,11 @@ const Cta = () => {
         <div className="flex-grow text-center lg:text-left">
           <h2 className="text-2xl font-medium lg:text-3xl">
             "YOU ARE NOT ALONE" 
-            Reach out to me  .... happy to help..
+            Reach out to me  .... anytime....happy to help..
           </h2>
           <p className="mt-2 font-medium text-white text-opacity-90 lg:text-xl">
        
-           If your life isn't joyful as it should be, am right here.... Let's figure out we can articulate it together. 
+           If your life isn't joyful as it should be, am right here.... Let's figure it out together. 
           </p>
         </div>
         <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 items-center sm:flex-row max-w-full min-w-max text-center">
