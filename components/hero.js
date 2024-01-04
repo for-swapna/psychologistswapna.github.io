@@ -9,7 +9,7 @@ const Hero = () => {
     <>
       <Container className="flex flex-wrap ">
         <h1 className="text-4xl font-bold leading-snug tracking-tight text-gray-800 lg:text-4xl lg:leading-tight xl:text-6xl xl:leading-tight dark:text-white text-center w-full mb-5">
-          Hi, I am krishna Swapna dumavat
+          Hi, I am Psychologist Swapna
         </h1>
         <div className="flex items-center justify-center lg:w-1/2 ">
           <div className="">
