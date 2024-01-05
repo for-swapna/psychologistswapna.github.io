@@ -67,7 +67,7 @@ function Benefit(props) {
             {props.title}
           </h4>
           <p className="mt-1 text-gray-500 dark:text-gray-400">
-            {props.children} ... <a href={props.link} className="text-sky-500">Read the full post</a>
+            {props.children} ... <a href={props.link} target="_blank" className="text-sky-500">Read the full post</a>
           </p>
           
         </div>
