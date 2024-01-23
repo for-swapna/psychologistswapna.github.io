@@ -30,7 +30,7 @@ const Hero = () => {
               which enables me to see through their psychological problems, even if they are unable to articulate it. 
             </p>
             <p className="py-5 text-l leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-              If you are facing issues for which you need counselling help, feel free to get in touch. <b>I am running first 10 counselling sessions for free at the moment</b>. 
+              If you are facing issues for which you need counselling help, feel free to get in touch. <b> </b>. 
             </p>
 
             <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">
